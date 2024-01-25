@@ -5,6 +5,7 @@
 
 ## 🚀 About Me
 I'm a passionate backend developer with a strong focus on building scalable and robust server-side applications. My mission is to create efficient and secure solutions that power the digital world.
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
