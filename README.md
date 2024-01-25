@@ -37,9 +37,3 @@ I'm a passionate backend developer with a strong focus on building scalable and 
  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=de-marauder&theme=blueberry&hide_border=true" />
 </p>
 <br> -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=de-marauder&layout=compact"/>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
