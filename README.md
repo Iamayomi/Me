@@ -1,4 +1,4 @@
-# Hello, I'm Joseph (Jc coder)! 👋
+# Hello, I'm Ayomide! 👋
 
 ## 🚀 About Me
 I'm a passionate backend developer with a strong focus on building scalable and robust server-side applications. My mission is to create efficient and secure solutions that power the digital world.
