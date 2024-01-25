@@ -29,19 +29,3 @@ I'm a passionate backend developer with a strong focus on building scalable and 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
-### 📈 &nbsp;Contribution Statistics
-
-<!-- <br >
-<p align="left">
- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=de-marauder&show_icons=true&theme=blueberry&hide_border=true" />
- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=de-marauder&theme=blueberry&hide_border=true" />
-</p>
-<br> -->
-
-<!-- <br >
-<p align="left">
- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=de-marauder&show_icons=true&theme=blueberry&hide_border=true" />
- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=de-marauder&theme=blueberry&hide_border=true" />
-</p>
-<br> -->
